@@ -1,0 +1,7 @@
+train: ../yolodat/images/train/ 
+val:  ../yolodat/images/val/
+test: ../yolodat/images/test/
+# number of classes
+nc: 1
+# class names
+names: ["fire"]
